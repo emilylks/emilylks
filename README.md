@@ -6,7 +6,7 @@ I design, code, and create things. I'm a full-stack and mobile developer who is 
    › software developer intern [@copperleaf technologies](https://www.copperleaf.com/)  
    › computer engineering student [@ubc](https://www.ece.ubc.ca/)  
    › re-designing my personal website (again)  
-   › starting my big summer project
+   › starting my big summer project!
 
 ☕ **Get in touch!**  
 I'm currently searching for winter 2022 software development internship opportunities - you can reach me any time via [linkedin](https://www.linkedin.com/in/emilylukas/) or [email](mailto:emily.lukas@gmail.com) 😄
