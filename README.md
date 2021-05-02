@@ -1,18 +1,16 @@
 ### Hi, I'm Emily <img src="hello-wave.gif" width="30" height="30" />
 
-I design, code, and create things.    
+I design, code, and create things. I'm a full-stack and mobile developer who is passionate about sustainability, accessibility, and all things healthcare related in tech.  
   \
 👩🏻‍💻 **Currently...**  
   
    › software developer intern [@copperleaf technologies](https://www.copperleaf.com/)  
    › computer engineering student [@ubc](https://www.ece.ubc.ca/)  
-   › exploring full-stack and mobile development  
-  
-**Outside of school, you can find me...**  
+   › re-designing my personal website (again)  
 
-
-**let's chat!**  
-Currently searching for winter 2022 software development internship opportunities. 
+☕ **Get in touch!**  
+I'm currently searching for winter 2022 software development internship opportunities.  
+[linkedin](https://www.linkedin.com/in/emilylukas/) | [email](mailto:emily.lukas@gmail.com)
 
 <!--
 **emilylks/emilylks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
