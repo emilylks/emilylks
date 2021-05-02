@@ -1,6 +1,6 @@
 ### Hi, I'm Emily <img src="hello-wave.gif" width="30" height="30" />
 
-I design, code, and create things. I'm a full-stack and mobile developer who is passionate about sustainability, accessibility, and all things healthcare related in tech.  
+I design, code, and create things. I'm a full-stack and mobile developer who is passionate about sustainability 🌱, accessibility ☀️, and all things healthcare 🩺 related in tech.  
   \
 👩🏻‍💻 **Currently...**  
    › software developer intern [@copperleaf technologies](https://www.copperleaf.com/)  
