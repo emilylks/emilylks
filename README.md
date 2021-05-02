@@ -8,7 +8,7 @@ I design, code, and create things. I'm a full-stack and mobile developer who is 
    › re-designing my personal website (again)  
 
 ☕ **Get in touch!**  
-I'm currently searching for winter 2022 software development internship opportunities - my inboxes are always open on [linkedin](https://www.linkedin.com/in/emilylukas/) and [email](mailto:emily.lukas@gmail.com) 😄
+I'm currently searching for winter 2022 software development internship opportunities - you can reach me any time via [linkedin](https://www.linkedin.com/in/emilylukas/) or [email](mailto:emily.lukas@gmail.com) 😄
 
 <!--
 **emilylks/emilylks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
