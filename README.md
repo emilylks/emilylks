@@ -6,10 +6,10 @@ I design, code, and create things. I'm a full-stack and mobile developer who is 
    › software developer intern [@copperleaf technologies](https://www.copperleaf.com/)  
    › computer engineering student [@ubc](https://www.ece.ubc.ca/)  
    › re-designing my personal website (again)  
-   › starting my big summer project!
+   › working on an app that fosters community and sustainability by promoting local businesses!
 
 ☕ **Get in touch!**  
-I'm currently open to winter + summer 2022 software development internship opportunities - you can reach me any time via [linkedin](https://www.linkedin.com/in/emilylukas/) or [email](mailto:emily.lukas@gmail.com) 😄
+I'm currently open to fall 2022 internship opportunities or summer 2023 new grad opportunies in software development - you can reach me any time via [linkedin](https://www.linkedin.com/in/emilylukas/) or [email](mailto:emily.lukas@gmail.com) 😄
 
 <!--
 **emilylks/emilylks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
