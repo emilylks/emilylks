@@ -3,7 +3,7 @@
 I design, code, and create things. I'm a full-stack and mobile developer who is passionate about sustainability 🌱, accessibility ☀️, and all things healthcare 🩺 related in tech.  
   \
 👩🏻‍💻 **Currently...**  
-   › software developer intern [@copperleaf technologies](https://www.copperleaf.com/)  
+   › software developer intern [@shopify](https://www.shopify.com/)  
    › computer engineering student [@ubc](https://www.ece.ubc.ca/)  
    › re-designing my personal website (again)  
    › working on an app that fosters community and sustainability by promoting local businesses!
