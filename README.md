@@ -4,8 +4,8 @@ I design, code, and create things. I'm a full-stack and mobile developer who is 
   \
 👩🏻‍💻 **Currently...**  
    › mobile developer intern [@shopify](https://www.shopify.com/)  
-   › computer engineering student [@ubc](https://www.ece.ubc.ca/)  
-   › re-designing my personal website (again)  
+   › computer engineering student [@ubc](https://www.ece.ubc.ca/) (expected grad: may 2023)  
+   › re-designing my personal website  
    › working on an app that fosters community and sustainability by promoting local businesses!
 
 ☕ **Get in touch!**  
