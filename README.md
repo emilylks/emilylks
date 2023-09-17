@@ -3,9 +3,8 @@
 I design, code, and create things. I'm a full-stack and mobile developer who is passionate about sustainability 🌱, accessibility ☀️, and breaking down barriers 🤝 in tech.  
   \
 👩🏻‍💻 **Currently...**  
-   › software engineer, prev intern [@brex](https://www.brex.com/), [@shopify](https://www.shopify.com/ca)   
-   › computer engineering student [@ubc](https://www.ece.ubc.ca/) (expected grad: may 2023)    
-   › working on an app that fosters sustainability by promoting ethical fashion!
+   › software engineer [@brex](https://www.brex.com/), prev [@shopify](https://www.shopify.com/ca)   
+   › computer engineering grad [@ubc](https://www.ece.ubc.ca/)
 
 ☕ **Get in touch!**  
 You can reach me any time via [linkedin](https://www.linkedin.com/in/emilylukas/) or [email](mailto:emily.lukas@gmail.com) 😄
